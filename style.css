@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    border: dashed;
+    border-color: #FFFFFFFF;
+    font-family: 'Turret Road', cursive;
+    color:#FFFFFFFF;
+    outline-style: none;
+    font-size: 250%;
+}
+
+
+.Home {
+    font-family: 'Turret Road', cursive;
+
+    color:#FFFFFFFF;
+    outline-style: none;
+    font-size: 200%;
+    text-align: center;
+}
+
+.About{
+    font-family: 'Turret Road', cursive;
+    color:#FFFFFFFF;
+    outline-style: none;
+    text-align: center;
+    font-size: 150%;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+p{
+    color: #FFFFFFFF;
+    font-family: 'Turret Road', cursive;
+
+}
+
+body{
+
+    background-color: #0f1217;
+
+    /* background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+}
+
+.main{
+    color: #FFFFFFFF;
+    /* margin-left: 33%;
+    margin-right: 10%; */
+    padding-left: 32%;
+    font-family: 'Turret Road', cursive;
+
+}
+
+.button{
+    font-size: 10px;
+    padding: 10px 24px;
+    border-radius: 12px;
+    background-color: #0f1217;
+    color: white;
+    border: 2px solid #FFFFFFFF;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  width: 50%;
+}
+.button:hover {
+    background-color: white; /* Green */
+    color: #0f1217;
+    
+  }
+
+  .Grade{
+      width: 50%;
+      height: 33px;
+      
+  }
